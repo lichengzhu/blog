@@ -4,7 +4,12 @@
     "repositoryName": "blog",
     "branch": "gh-pages"
   },
-  "site": {},
+  "site": {
+    "title": "Licheng's blog",
+    "description": "This is my blog currently under construction",
+    "cover": "",
+    "postsPerPage": "5"
+  },
   "socialnetwork": {
     "email": "lichengzhu@outlook.com",
     "twitter": "licheng_zhu",
@@ -12,6 +17,6 @@
     "github": "lichengzhu"
   },
   "theme": {
-    "name": "casper"
+    "name": "saga"
   }
 }
