@@ -4,7 +4,14 @@
     "repositoryName": "blog",
     "branch": "gh-pages"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "lichengzhu@outlook.com",
+    "twitter": "licheng_zhu",
+    "linkedin": "lichengzhu",
+    "github": "lichengzhu"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
