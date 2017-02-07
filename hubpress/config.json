@@ -6,8 +6,8 @@
   },
   "site": {
     "title": "Licheng's blog",
-    "description": "This is my blog currently under construction",
-    "cover": "image::hug.png",
+    "description": "UX, Data, Emotions, Life",
+    "cover": "image::http://github.com/lichengzhu/blog/images/hug.png",
     "postsPerPage": "5",
     "googleAnalytics": "UA-91523960-1"
   },
