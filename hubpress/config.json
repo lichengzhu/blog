@@ -7,8 +7,9 @@
   "site": {
     "title": "Licheng's blog",
     "description": "This is my blog currently under construction",
-    "cover": "",
-    "postsPerPage": "5"
+    "cover": "image::hug.png",
+    "postsPerPage": "5",
+    "googleAnalytics": "UA-91523960-1"
   },
   "socialnetwork": {
     "email": "lichengzhu@outlook.com",
