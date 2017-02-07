@@ -7,7 +7,7 @@
   "site": {
     "title": "Licheng's blog",
     "description": "UX, Data, Emotions, Life",
-    "cover": "image::http://github.com/lichengzhu/blog/images/hug.png",
+    "cover": "image::https://github.com/lichengzhu/blog/tree/gh-pages/images/hug.png",
     "postsPerPage": "5",
     "googleAnalytics": "UA-91523960-1"
   },
