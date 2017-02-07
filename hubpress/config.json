@@ -6,8 +6,8 @@
   },
   "site": {
     "title": "Licheng's blog",
-    "description": "UX, Data, Emotions, Life",
-    "cover": "image::hug.jpg",
+    "description": "UX | Data | Love | Life",
+    "cover": "image::/images/hug.jpg",
     "postsPerPage": "5",
     "googleAnalytics": "UA-91523960-1"
   },
