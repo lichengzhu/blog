@@ -7,7 +7,7 @@
   "site": {
     "title": "Licheng's blog",
     "description": "UX | Data | Love | Life",
-    "cover": "image::http://github.com/lichengzhu/blog/images/hug.jpg[]",
+    "cover": "image::/images/hug.png[]",
     "postsPerPage": "5",
     "googleAnalytics": "UA-91523960-1"
   },
@@ -18,6 +18,6 @@
     "github": "lichengzhu"
   },
   "theme": {
-    "name": "roon"
+    "name": "ghostium"
   }
 }
