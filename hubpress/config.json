@@ -7,7 +7,7 @@
   "site": {
     "title": "Licheng's blog",
     "description": "UX | Data | Love | Life",
-    "cover": "image::/images/hug.png[]",
+    "cover": "images/hug.jpg[]",
     "postsPerPage": "5",
     "googleAnalytics": "UA-91523960-1"
   },
